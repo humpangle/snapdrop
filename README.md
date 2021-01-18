@@ -1,5 +1,8 @@
 # Snapdrop 
 
+## Article: How One Developer Recreated AirDrop Using Just JavaScript
+https://dev.to/abdisalan_js/how-one-developer-recreated-airdrop-using-just-javascript-2403
+
 [Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
 
 
